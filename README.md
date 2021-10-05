@@ -1,4 +1,4 @@
-### ✨ Developer, DevOps, Security Researcher | Serbia, BG ✨
+### ✨ Developer, DevOps, Security Researcher | Serbia, BG ✨ I DONT USE TELEGRAM DONT BE SCAMMED
 
 Several years experience in: PHP, Node.js, Go, Java, C#, C++, C, Ruby, Python, Rust, Perl, Bash, Redis, Memcached, MongoDB, MySQL, PostgreeSQL. I enjoy doing it as a little side project to help those who need it.
 
